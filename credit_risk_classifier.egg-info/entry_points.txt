@@ -1,0 +1,2 @@
+[console_scripts]
+credit_risk = main_credit_risk:main

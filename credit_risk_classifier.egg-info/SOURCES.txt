@@ -1,0 +1,10 @@
+README.md
+setup.py
+credit_risk_classifier.egg-info/PKG-INFO
+credit_risk_classifier.egg-info/SOURCES.txt
+credit_risk_classifier.egg-info/dependency_links.txt
+credit_risk_classifier.egg-info/entry_points.txt
+credit_risk_classifier.egg-info/requires.txt
+credit_risk_classifier.egg-info/top_level.txt
+models_credit_risk/__init__.py
+models_credit_risk/user_model_credit_risk.py
